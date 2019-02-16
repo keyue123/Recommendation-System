@@ -1,0 +1,4 @@
+A,Mix3,XR,mate20
+B,Mix3,P20,nexs
+C,Mix3,P20,nexs,mate20
+D,P20,nexs
